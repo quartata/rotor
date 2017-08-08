@@ -1,4 +1,4 @@
-#Core Commands
+# Core Commands
 
 Core commands are always available regardless of what wheel you are in. They can be easily identified in code since they are never letters.
 
@@ -46,9 +46,9 @@ Core commands are always available regardless of what wheel you are in. They can
 
 `$` Pops the top value off the stack and pushes true if it is equal to the now-top value on the stack and pushes false otherwise
 
-#Wheels
+# Wheels
 
-##Math Wheel
+## Math Wheel
 
 `a` Pops a number off the stack and pushes the absolute value of it.
 
@@ -154,18 +154,18 @@ Core commands are always available regardless of what wheel you are in. They can
 
 `Z` Pops everything off the stack, adds them together, and pushes the result. (not implemented)
 
-##String Wheel
+## String Wheel
 
 Coming soon.
 
-##Array Wheel
+## Array Wheel
 
 Coming soon.
 
-##Time Wheel
+## Time Wheel
 
 Coming soon.
 
-##Network Wheel
+## Network Wheel
 
 Coming soon.
